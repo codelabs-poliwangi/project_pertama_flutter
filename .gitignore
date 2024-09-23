@@ -1,4 +1,6 @@
 # Miscellaneous
+pubspec.yaml
+lib_custom/
 *.class
 *.log
 *.pyc
